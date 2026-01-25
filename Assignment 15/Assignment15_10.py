@@ -9,12 +9,12 @@ def main():
      Data = list()
      print("Enter the elements: ")
      for i in range(Size):
-          Value = (input())
-          Data.append(Value)
+          Data.append(int(input()))
     
-     FData = list(filter(lambda No: No%2==0 and len(No),Data))
+     EvenNum = list(filter(lambda No: No % 2 == 0,Data))
+     Length = len(EvenNum)
                   
-     print("Reduced Data is",FData)
+     print("Count of even Num is:",Length)
 
 if __name__ == "__main__":
     main()

@@ -3,7 +3,7 @@
 
 
 def Prime():
-    Result = 0
+
     Num = int(input("Enter the number:"))
 
     if Num <= 1:

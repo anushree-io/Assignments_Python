@@ -10,7 +10,7 @@ def CopyContents(FileName):
     Data = fobj.read()
     fobj.close()
 
-    dobj = open("Demo.txt", "s")
+    dobj = open("Demo.txt", "w") 
     dobj.write(Data)
     dobj.close()
 

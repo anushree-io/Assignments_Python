@@ -1,0 +1,5 @@
+************************************************************
+Duplicate Files in Directory : Demo
+************************************************************
+Demo\New Text Document (2).txt
+Demo\New Text Document.txt

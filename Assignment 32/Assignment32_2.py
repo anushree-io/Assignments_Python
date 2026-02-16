@@ -26,6 +26,7 @@ def CalculateCheckSum(FileName):
 
 
 def DirectoryDuplicate(DirName = "Demo"):
+    
     Ret = False
     Ret = os.path.exists(DirName)
     if Ret == False:
@@ -56,9 +57,9 @@ def DirectoryDuplicate(DirName = "Demo"):
             lobj.write("*"*60 + "\n")
 
             for checksum in Duplicate:
-                if len(Duplicate[checksum]) > 1:
+                if len(Duplicate[checksum]) > 1:               
                     for fname in Duplicate[checksum]:
-                        lobj.write(fname + "\n")
+                        lobj.write(fname + "\n") 
             lobj.close()
 
 def main():

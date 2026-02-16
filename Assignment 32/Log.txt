@@ -1,5 +1,11 @@
 ************************************************************
 Duplicate Files in Directory : Demo
 ************************************************************
-Demo\New Text Document (2).txt
-Demo\New Text Document.txt
+Demo\Text File - Copy (2) - Copy - Copy.jpeg
+Demo\Text File - Copy (2) - Copy.jpeg
+Demo\Text File - Copy (3) - Copy - Copy.jpeg
+Demo\Text File - Copy (4) - Copy - Copy.jpeg
+Demo\Text File - Copy (5) - Copy - Copy.jpeg
+Demo\Text File - Copy (6) - Copy - Copy.jpeg
+Demo\Text File - Copy (7) - Copy - Copy.jpeg
+Demo\Text File - Copy (8) - Copy - Copy.jpeg

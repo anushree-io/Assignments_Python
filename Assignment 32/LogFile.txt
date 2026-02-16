@@ -1,0 +1,8 @@
+************************************************************
+Duplicate Files Deleted From : Demo
+************************************************************
+Demo\B.txt
+Demo\C.txt
+Demo\D.txt
+Demo\E.txt
+Demo\F.txt

@@ -1,0 +1,3734 @@
+__________________________________________________
+---- Marvellous Platform Surveilliance System ----
+Log created at:Sat Feb 14 12:42:02 2026
+__________________________________________________
+
+--------------------System Report------------------
+CPU Usage: 21.7 %
+__________________________________________________
+RAM Usage: 71.0 %
+__________________________________________________
+
+ Disk Usage Report
+__________________________________________________
+C:\ -> 93.8 % used
+D:\ -> 19.4 % used
+__________________________________________________
+
+Network Usage Report
+Sent: 24.22 MB
+Recieved: 85.56 MB
+__________________________________________________
+PID: 0
+Name: System Idle Process
+UserName: NT AUTHORITY\SYSTEM
+Threads: 36
+Files Opened by Process: 0
+Status: running
+Start Time: 1970-01-01 05:30:00
+CPU %: 653.80
+Memory %: 0.00
+__________________________________________________
+PID: 4
+Name: System
+UserName: NT AUTHORITY\SYSTEM
+Threads: 333
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:46
+CPU %: 19.10
+Memory %: 0.02
+__________________________________________________
+PID: 188
+Name: 
+UserName: NT AUTHORITY\SYSTEM
+Threads: 0
+Files Opened by Process: Access Denied
+Status: stopped
+Start Time: 2026-02-14 09:41:42
+CPU %: 0.00
+Memory %: 0.00
+__________________________________________________
+PID: 232
+Name: Registry
+UserName: NT AUTHORITY\SYSTEM
+Threads: 4
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:41:42
+CPU %: 0.00
+Memory %: 0.35
+__________________________________________________
+PID: 724
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 48
+Files Opened by Process: 357
+Status: running
+Start Time: 2026-02-14 09:43:48
+CPU %: 22.00
+Memory %: 2.05
+__________________________________________________
+PID: 812
+Name: smss.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 2
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:41:46
+CPU %: 0.00
+Memory %: 0.00
+__________________________________________________
+PID: 1048
+Name: csrss.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 17
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:41:56
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 1132
+Name: wininit.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 1
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:41:56
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 1140
+Name: csrss.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 16
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:41:56
+CPU %: 1.30
+Memory %: 0.03
+__________________________________________________
+PID: 1200
+Name: winlogon.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 4
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:56
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 1216
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 7
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:46:10
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 1256
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 20
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 11:26:37
+CPU %: 0.00
+Memory %: 0.31
+__________________________________________________
+PID: 1276
+Name: services.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 8
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:41:56
+CPU %: 0.40
+Memory %: 0.07
+__________________________________________________
+PID: 1284
+Name: OmenCommandCenterBackground.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 105
+Files Opened by Process: 190
+Status: running
+Start Time: 2026-02-14 09:43:20
+CPU %: 8.90
+Memory %: 1.15
+__________________________________________________
+PID: 1288
+Name: LsaIso.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 1
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:56
+CPU %: 0.00
+Memory %: 0.01
+__________________________________________________
+PID: 1296
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 2
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:42:06
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 1304
+Name: lsass.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 11
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:41:56
+CPU %: 2.00
+Memory %: 0.15
+__________________________________________________
+PID: 1320
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 4
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 1444
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 23
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 09:41:56
+CPU %: 0.20
+Memory %: 0.22
+__________________________________________________
+PID: 1452
+Name: Code.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 25
+Files Opened by Process: 7
+Status: running
+Start Time: 2026-02-14 09:45:13
+CPU %: 0.20
+Memory %: 0.52
+__________________________________________________
+PID: 1476
+Name: fontdrvhost.exe
+UserName: Font Driver Host\UMFD-0
+Threads: 5
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:56
+CPU %: 0.00
+Memory %: 0.01
+__________________________________________________
+PID: 1484
+Name: fontdrvhost.exe
+UserName: Font Driver Host\UMFD-1
+Threads: 5
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:56
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 1520
+Name: WUDFHost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 9
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 09:41:56
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 1532
+Name: Code.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 26
+Files Opened by Process: 8
+Status: running
+Start Time: 2026-02-14 09:45:13
+CPU %: 0.30
+Memory %: 0.28
+__________________________________________________
+PID: 1604
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 2
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 1616
+Name: svchost.exe
+UserName: NT AUTHORITY\NETWORK SERVICE
+Threads: 13
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:56
+CPU %: 2.30
+Memory %: 0.12
+__________________________________________________
+PID: 1672
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 5
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 1680
+Name: WUDFHost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 17
+Files Opened by Process: 8
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 1812
+Name: WUDFHost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 10
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 1820
+Name: dwm.exe
+UserName: Window Manager\DWM-1
+Threads: 19
+Files Opened by Process: 6
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 12.50
+Memory %: 0.80
+__________________________________________________
+PID: 1948
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 2
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 1956
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 6
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 1988
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 5
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 2000
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 4
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 2052
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 6
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 2152
+Name: svchost.exe
+UserName: NT AUTHORITY\NETWORK SERVICE
+Threads: 10
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.10
+Memory %: 0.05
+__________________________________________________
+PID: 2236
+Name: IntelCpHDCPSvc.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 2244
+Name: WUDFHost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 5
+Files Opened by Process: 6
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 2256
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 9
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.08
+__________________________________________________
+PID: 2280
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 11
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 2292
+Name: RuntimeBroker.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 19
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 10:04:58
+CPU %: 0.00
+Memory %: 0.26
+__________________________________________________
+PID: 2324
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 7
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 2352
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 3
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 2396
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 5
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 2412
+Name: svchost.exe
+UserName: NT AUTHORITY\NETWORK SERVICE
+Threads: 12
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.10
+Memory %: 0.11
+__________________________________________________
+PID: 2468
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 2552
+Name: Code.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 27
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 09:45:13
+CPU %: 0.00
+Memory %: 1.53
+__________________________________________________
+PID: 2564
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 18
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 11:26:44
+CPU %: 0.00
+Memory %: 0.29
+__________________________________________________
+PID: 2728
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 4
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 2796
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 7
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.09
+__________________________________________________
+PID: 2848
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 24
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 09:46:10
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 2964
+Name: DesktopExtension.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 14
+Files Opened by Process: 21
+Status: running
+Start Time: 2026-02-14 09:47:51
+CPU %: 0.20
+Memory %: 0.17
+__________________________________________________
+PID: 2980
+Name: serial-discovery.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 9
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:49:25
+CPU %: 2.40
+Memory %: 0.07
+__________________________________________________
+PID: 2992
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 7
+Files Opened by Process: 11
+Status: running
+Start Time: 2026-02-14 09:42:08
+CPU %: 0.00
+Memory %: 0.15
+__________________________________________________
+PID: 3228
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 2
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 3244
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 8
+Files Opened by Process: 159
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.10
+Memory %: 0.10
+__________________________________________________
+PID: 3276
+Name: dllhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 2
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 12:21:18
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 3280
+Name: powershell.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 9
+Files Opened by Process: 7
+Status: running
+Start Time: 2026-02-14 09:45:18
+CPU %: 0.00
+Memory %: 0.20
+__________________________________________________
+PID: 3296
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 6
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.10
+Memory %: 0.12
+__________________________________________________
+PID: 3304
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 4
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 3312
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 5
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 3388
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 8
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.10
+Memory %: 0.07
+__________________________________________________
+PID: 3428
+Name: MemCompression
+UserName: NT AUTHORITY\SYSTEM
+Threads: 70
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.10
+Memory %: 4.62
+__________________________________________________
+PID: 3476
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 3504
+Name: steam.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 38
+Files Opened by Process: 41
+Status: running
+Start Time: 2026-02-14 09:45:26
+CPU %: 0.70
+Memory %: 0.38
+__________________________________________________
+PID: 3532
+Name: DiagsCap.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 3540
+Name: NetworkCap.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.08
+__________________________________________________
+PID: 3548
+Name: AppHelperCap.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.11
+__________________________________________________
+PID: 3556
+Name: SysInfoCap.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 19
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.48
+__________________________________________________
+PID: 3564
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 5
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 3572
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 8
+Files Opened by Process: 7
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 3580
+Name: TouchpointAnalyticsClientService.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 10
+Files Opened by Process: 86
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.25
+__________________________________________________
+PID: 3684
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 15
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.10
+__________________________________________________
+PID: 3844
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 10
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.09
+__________________________________________________
+PID: 3868
+Name: svchost.exe
+UserName: NT AUTHORITY\NETWORK SERVICE
+Threads: 6
+Files Opened by Process: 12
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 0.00
+Memory %: 0.10
+__________________________________________________
+PID: 3988
+Name: browserhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 38
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 11:33:43
+CPU %: 0.10
+Memory %: 0.10
+__________________________________________________
+PID: 4080
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 4
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 4.30
+Memory %: 0.19
+__________________________________________________
+PID: 4244
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 5
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 4300
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 5
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 4324
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 7
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:48:24
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 4344
+Name: conhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 4
+Files Opened by Process: 6
+Status: running
+Start Time: 2026-02-14 12:21:21
+CPU %: 2.50
+Memory %: 0.18
+__________________________________________________
+PID: 4404
+Name: sihost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 16
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.21
+__________________________________________________
+PID: 4444
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 6
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 4452
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 13
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.11
+__________________________________________________
+PID: 4464
+Name: svchost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 8
+Files Opened by Process: 10
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.15
+__________________________________________________
+PID: 4552
+Name: SearchIndexer.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 12
+Files Opened by Process: 23
+Status: running
+Start Time: 2026-02-14 09:42:06
+CPU %: 0.40
+Memory %: 0.19
+__________________________________________________
+PID: 4564
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 5
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 4572
+Name: svchost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 4616
+Name: steamwebhelper.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 23
+Files Opened by Process: 20
+Status: running
+Start Time: 2026-02-14 09:45:37
+CPU %: 0.00
+Memory %: 1.66
+__________________________________________________
+PID: 4652
+Name: svchost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 14
+Files Opened by Process: 8
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 11.60
+Memory %: 0.22
+__________________________________________________
+PID: 4664
+Name: dasHost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 4
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.10
+__________________________________________________
+PID: 4708
+Name: BlueStacksServices.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 15
+Files Opened by Process: 8
+Status: running
+Start Time: 2026-02-14 09:44:59
+CPU %: 0.00
+Memory %: 0.33
+__________________________________________________
+PID: 4728
+Name: taskhostw.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 9
+Files Opened by Process: 8
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.12
+__________________________________________________
+PID: 4760
+Name: wlanext.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 2
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:42:05
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 4788
+Name: SystemOptimizer.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 12
+Files Opened by Process: 46
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 4824
+Name: OmenInstallMonitor.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 8
+Files Opened by Process: 25
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 4852
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 6
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.13
+__________________________________________________
+PID: 4876
+Name: conhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 09:49:25
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 4940
+Name: spoolsv.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 7
+Files Opened by Process: 6
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 4968
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 4
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:46:20
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 4996
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 4
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.08
+__________________________________________________
+PID: 5004
+Name: OverlayHelper.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 21
+Files Opened by Process: 30
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 1.80
+Memory %: 0.15
+__________________________________________________
+PID: 5212
+Name: SECOCL64.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 5
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:42:00
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 5224
+Name: Code.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 8
+Files Opened by Process: 13
+Status: running
+Start Time: 2026-02-14 09:45:23
+CPU %: 0.00
+Memory %: 0.20
+__________________________________________________
+PID: 5240
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 8
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:43:48
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 5264
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 5388
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 8
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 5412
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 4
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 5452
+Name: svchost.exe
+UserName: NT AUTHORITY\NETWORK SERVICE
+Threads: 5
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 5568
+Name: NgcIso.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 1
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.01
+__________________________________________________
+PID: 5572
+Name: mDNSResponder.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 2
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 5588
+Name: AdskLicensingService.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 13
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 1.20
+Memory %: 0.09
+__________________________________________________
+PID: 5600
+Name: CATSysDemon.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 2
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 5608
+Name: cer_service.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 14
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.40
+Memory %: 0.12
+__________________________________________________
+PID: 5624
+Name: ELAN_MOC_Service.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 2
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 5632
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 13
+Files Opened by Process: 17
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.10
+Memory %: 0.28
+__________________________________________________
+PID: 5648
+Name: OfficeClickToRun.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 18
+Files Opened by Process: 10
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.17
+__________________________________________________
+PID: 5656
+Name: FNPLicensingService64.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 9
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 5672
+Name: ipfsvc.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 8
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 5680
+Name: ETDService.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 4
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 5692
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 21
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.10
+Memory %: 0.33
+__________________________________________________
+PID: 5696
+Name: AdskAccessServiceHost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 8
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:58
+CPU %: 0.00
+Memory %: 0.11
+__________________________________________________
+PID: 5724
+Name: WmiPrvSE.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 6
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:42:02
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 5772
+Name: BlueStacksServices.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 9
+Files Opened by Process: 13
+Status: running
+Start Time: 2026-02-14 09:44:59
+CPU %: 0.00
+Memory %: 0.19
+__________________________________________________
+PID: 5780
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 9
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:42:31
+CPU %: 0.00
+Memory %: 0.08
+__________________________________________________
+PID: 5824
+Name: mysqld.exe
+UserName: NT AUTHORITY\NETWORK SERVICE
+Threads: 3
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 5880
+Name: HPCommRecovery.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 6
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.08
+__________________________________________________
+PID: 5904
+Name: HPPrintScanDoctorService.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 5968
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 14
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:47:25
+CPU %: 0.30
+Memory %: 0.09
+__________________________________________________
+PID: 5972
+Name: IntelAudioService.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 7
+Files Opened by Process: 24
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 5988
+Name: OneApp.IGCC.WinService.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 8
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.12
+__________________________________________________
+PID: 6004
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 6
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 6020
+Name: mc-fw-host.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 157
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 1.40
+Memory %: 0.55
+__________________________________________________
+PID: 6028
+Name: MpDefenderCoreService.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 8
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.12
+__________________________________________________
+PID: 6036
+Name: jhi_service.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 2
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 6044
+Name: servicehost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 85
+Files Opened by Process: 6
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.20
+Memory %: 0.19
+__________________________________________________
+PID: 6076
+Name: ipf_uf.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 6128
+Name: steamservice.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 4
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:45:32
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 6140
+Name: ETDCtrl.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 13
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 6172
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 6
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 6196
+Name: Code.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 29
+Files Opened by Process: 9
+Status: running
+Start Time: 2026-02-14 09:45:14
+CPU %: 0.00
+Memory %: 0.31
+__________________________________________________
+PID: 6268
+Name: SECOMN64.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 9
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 6276
+Name: PhoneExperienceHost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 13
+Files Opened by Process: 148
+Status: running
+Start Time: 2026-02-14 10:01:09
+CPU %: 0.00
+Memory %: 0.85
+__________________________________________________
+PID: 6304
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 5
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 6412
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 6428
+Name: RtkAudUService64.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 19
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 6444
+Name: urban-vpn-service.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 9
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.20
+Memory %: 0.10
+__________________________________________________
+PID: 6480
+Name: MsMpEng.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 54
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 6.40
+Memory %: 1.61
+__________________________________________________
+PID: 6496
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 15
+Files Opened by Process: 8
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 1.20
+Memory %: 0.15
+__________________________________________________
+PID: 6512
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 9
+Files Opened by Process: 6
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.12
+__________________________________________________
+PID: 6532
+Name: WMIRegistrationService.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 2
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 6948
+Name: conhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 2
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:42:00
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 7400
+Name: FileCoAuth.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 7
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:56:10
+CPU %: 0.20
+Memory %: 0.18
+__________________________________________________
+PID: 7452
+Name: mysqld.exe
+UserName: NT AUTHORITY\NETWORK SERVICE
+Threads: 39
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.60
+Memory %: 0.13
+__________________________________________________
+PID: 7688
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 2
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:42:05
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 7692
+Name: conhost.exe
+UserName: NT AUTHORITY\NETWORK SERVICE
+Threads: 4
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 8312
+Name: AdskAccessUIHost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 23
+Files Opened by Process: 34
+Status: running
+Start Time: 2026-02-14 09:43:27
+CPU %: 0.00
+Memory %: 0.18
+__________________________________________________
+PID: 8364
+Name: Notepad.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 20
+Files Opened by Process: 34
+Status: running
+Start Time: 2026-02-14 12:33:31
+CPU %: 0.20
+Memory %: 1.27
+__________________________________________________
+PID: 8380
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 2
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:42:24
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 8432
+Name: svchost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 4
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:42:24
+CPU %: 0.00
+Memory %: 0.08
+__________________________________________________
+PID: 8492
+Name: BraveCrashHandler.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:42:00
+CPU %: 0.00
+Memory %: 0.01
+__________________________________________________
+PID: 8540
+Name: BraveCrashHandler64.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:42:00
+CPU %: 0.00
+Memory %: 0.01
+__________________________________________________
+PID: 8700
+Name: uihost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 65
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:42:00
+CPU %: 0.60
+Memory %: 0.17
+__________________________________________________
+PID: 8816
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 24
+Files Opened by Process: 10
+Status: running
+Start Time: 2026-02-14 11:33:37
+CPU %: 0.00
+Memory %: 0.50
+__________________________________________________
+PID: 8888
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 24
+Files Opened by Process: 35
+Status: running
+Start Time: 2026-02-14 09:48:24
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 9072
+Name: HPSystemEventUtilityBackground.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 5
+Files Opened by Process: 17
+Status: running
+Start Time: 2026-02-14 09:42:50
+CPU %: 0.10
+Memory %: 0.21
+__________________________________________________
+PID: 9416
+Name: StartMenuExperienceHost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 14
+Files Opened by Process: 19
+Status: running
+Start Time: 2026-02-14 09:42:10
+CPU %: 0.00
+Memory %: 0.64
+__________________________________________________
+PID: 9456
+Name: SearchHost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 13
+Files Opened by Process: 25
+Status: running
+Start Time: 2026-02-14 09:42:10
+CPU %: 0.00
+Memory %: 0.75
+__________________________________________________
+PID: 9600
+Name: Code.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 7
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:45:11
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 9664
+Name: Code.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 54
+Files Opened by Process: 58
+Status: running
+Start Time: 2026-02-14 09:45:10
+CPU %: 4.50
+Memory %: 0.70
+__________________________________________________
+PID: 9668
+Name: mc-fw-host.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 48
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:42:01
+CPU %: 0.00
+Memory %: 0.11
+__________________________________________________
+PID: 9764
+Name: WmiPrvSE.exe
+UserName: NT AUTHORITY\NETWORK SERVICE
+Threads: 8
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:42:01
+CPU %: 9.30
+Memory %: 0.18
+__________________________________________________
+PID: 9768
+Name: ipf_helper.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 4
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:42:01
+CPU %: 0.20
+Memory %: 0.03
+__________________________________________________
+PID: 9876
+Name: unsecapp.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:42:01
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 10296
+Name: steamwebhelper.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 22
+Files Opened by Process: 20
+Status: running
+Start Time: 2026-02-14 09:46:17
+CPU %: 0.00
+Memory %: 0.56
+__________________________________________________
+PID: 10356
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 7
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:42:02
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 10416
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 54
+Files Opened by Process: 150
+Status: running
+Start Time: 2026-02-14 09:46:10
+CPU %: 0.20
+Memory %: 0.17
+__________________________________________________
+PID: 10428
+Name: gamingservices.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 53
+Files Opened by Process: 8
+Status: running
+Start Time: 2026-02-14 09:42:05
+CPU %: 0.70
+Memory %: 0.19
+__________________________________________________
+PID: 10528
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 26
+Files Opened by Process: 40
+Status: running
+Start Time: 2026-02-14 11:33:40
+CPU %: 28.60
+Memory %: 2.24
+__________________________________________________
+PID: 10584
+Name: steamwebhelper.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 20
+Files Opened by Process: 17
+Status: running
+Start Time: 2026-02-14 09:45:32
+CPU %: 0.00
+Memory %: 0.15
+__________________________________________________
+PID: 10620
+Name: AdskIdentityManager.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 25
+Files Opened by Process: 9
+Status: running
+Start Time: 2026-02-14 09:42:02
+CPU %: 2.60
+Memory %: 0.11
+__________________________________________________
+PID: 10756
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 10
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:42:04
+CPU %: 6.30
+Memory %: 0.17
+__________________________________________________
+PID: 10796
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 28
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:42:04
+CPU %: 0.00
+Memory %: 0.21
+__________________________________________________
+PID: 10864
+Name: msedge.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 10
+Files Opened by Process: 17
+Status: running
+Start Time: 2026-02-14 11:47:44
+CPU %: 0.00
+Memory %: 0.13
+__________________________________________________
+PID: 10868
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 4
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:50:11
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 10920
+Name: gamingservicesnet.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 38
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:42:05
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 11312
+Name: explorer.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 108
+Files Opened by Process: 79
+Status: running
+Start Time: 2026-02-14 09:42:05
+CPU %: 10.80
+Memory %: 2.71
+__________________________________________________
+PID: 11368
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 10
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 09:42:05
+CPU %: 0.00
+Memory %: 0.10
+__________________________________________________
+PID: 11388
+Name: UserOOBEBroker.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 1
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:50:11
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 11400
+Name: python.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 12:31:14
+CPU %: 81.90
+Memory %: 0.13
+__________________________________________________
+PID: 11748
+Name: steamwebhelper.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 6
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:45:32
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 11768
+Name: RtkAudUService64.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 8
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:42:06
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 11812
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 10
+Files Opened by Process: 18
+Status: running
+Start Time: 2026-02-14 09:43:14
+CPU %: 0.00
+Memory %: 0.01
+__________________________________________________
+PID: 11952
+Name: AggregatorHost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:42:06
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 11968
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 9
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:42:06
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 12032
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 21
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 09:48:24
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 12184
+Name: CrossDeviceResume.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 6
+Files Opened by Process: 6
+Status: running
+Start Time: 2026-02-14 09:42:06
+CPU %: 0.00
+Memory %: 0.19
+__________________________________________________
+PID: 12404
+Name: SecurityHealthService.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 9
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:42:44
+CPU %: 0.00
+Memory %: 0.13
+__________________________________________________
+PID: 12436
+Name: RuntimeBroker.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:47:24
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 12460
+Name: BridgeCommunication.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 4
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 09:44:46
+CPU %: 0.00
+Memory %: 0.09
+__________________________________________________
+PID: 12472
+Name: RuntimeBroker.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:48:23
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 12504
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 15
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 09:42:07
+CPU %: 0.00
+Memory %: 0.17
+__________________________________________________
+PID: 12900
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 4
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 09:42:07
+CPU %: 0.00
+Memory %: 0.10
+__________________________________________________
+PID: 12940
+Name: svchost.exe
+UserName: NT AUTHORITY\NETWORK SERVICE
+Threads: 4
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:42:07
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 13016
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 7
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 09:42:07
+CPU %: 0.00
+Memory %: 0.12
+__________________________________________________
+PID: 13032
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 2
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:42:07
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 13132
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 10
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 09:42:07
+CPU %: 0.00
+Memory %: 0.10
+__________________________________________________
+PID: 13144
+Name: steamwebhelper.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 34
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:45:32
+CPU %: 1.50
+Memory %: 0.59
+__________________________________________________
+PID: 13212
+Name: TextInputHost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 39
+Files Opened by Process: 33
+Status: running
+Start Time: 2026-02-14 09:42:20
+CPU %: 1.10
+Memory %: 0.58
+__________________________________________________
+PID: 13244
+Name: ChatGPT.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 7
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 11:30:04
+CPU %: 0.00
+Memory %: 0.10
+__________________________________________________
+PID: 13320
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 29
+Files Opened by Process: 21
+Status: running
+Start Time: 2026-02-14 09:46:10
+CPU %: 0.00
+Memory %: 0.14
+__________________________________________________
+PID: 13328
+Name: jusched.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 2
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 09:49:23
+CPU %: 0.00
+Memory %: 0.12
+__________________________________________________
+PID: 13616
+Name: FileSyncHelper.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 4
+Files Opened by Process: 7
+Status: running
+Start Time: 2026-02-14 09:44:40
+CPU %: 0.00
+Memory %: 0.12
+__________________________________________________
+PID: 13680
+Name: svchost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 8
+Status: running
+Start Time: 2026-02-14 09:42:11
+CPU %: 0.00
+Memory %: 0.11
+__________________________________________________
+PID: 13708
+Name: RuntimeBroker.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 13
+Files Opened by Process: 11
+Status: running
+Start Time: 2026-02-14 09:42:11
+CPU %: 0.00
+Memory %: 0.32
+__________________________________________________
+PID: 13824
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 10
+Files Opened by Process: 16
+Status: running
+Start Time: 2026-02-14 09:47:25
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 13840
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 16
+Files Opened by Process: 10
+Status: running
+Start Time: 2026-02-14 09:51:23
+CPU %: 0.00
+Memory %: 0.18
+__________________________________________________
+PID: 13844
+Name: jucheck.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 09:54:25
+CPU %: 0.00
+Memory %: 0.11
+__________________________________________________
+PID: 13856
+Name: ChatGPT.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 23
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 11:30:05
+CPU %: 0.00
+Memory %: 0.63
+__________________________________________________
+PID: 13948
+Name: svchost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 12
+Files Opened by Process: 8
+Status: running
+Start Time: 2026-02-14 09:42:09
+CPU %: 0.00
+Memory %: 0.21
+__________________________________________________
+PID: 13960
+Name: steamwebhelper.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 9
+Files Opened by Process: 18
+Status: running
+Start Time: 2026-02-14 09:45:32
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 14020
+Name: unsecapp.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 1
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:42:51
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 14060
+Name: CrossDeviceService.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 16
+Files Opened by Process: 126
+Status: running
+Start Time: 2026-02-14 09:42:10
+CPU %: 0.30
+Memory %: 0.41
+__________________________________________________
+PID: 14172
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 10
+Files Opened by Process: 20
+Status: running
+Start Time: 2026-02-14 09:46:10
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 14176
+Name: SecurityHealthSystray.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 1
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:42:44
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 14316
+Name: Widgets.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 14
+Files Opened by Process: 20
+Status: running
+Start Time: 2026-02-14 09:42:11
+CPU %: 0.00
+Memory %: 0.31
+__________________________________________________
+PID: 14380
+Name: pet.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 1
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:45:17
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 14396
+Name: dasHost.exe
+UserName: NT AUTHORITY\NETWORK SERVICE
+Threads: 1
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:43:47
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 14420
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 50
+Files Opened by Process: 98
+Status: running
+Start Time: 2026-02-14 09:48:24
+CPU %: 0.10
+Memory %: 0.13
+__________________________________________________
+PID: 14492
+Name: WidgetService.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 6
+Files Opened by Process: 10
+Status: running
+Start Time: 2026-02-14 09:42:12
+CPU %: 0.00
+Memory %: 0.08
+__________________________________________________
+PID: 14580
+Name: cmd.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 1
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 11:33:43
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 14772
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 21
+Files Opened by Process: 23
+Status: running
+Start Time: 2026-02-14 09:46:10
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 14940
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 51
+Files Opened by Process: 107
+Status: running
+Start Time: 2026-02-14 09:42:13
+CPU %: 0.10
+Memory %: 0.64
+__________________________________________________
+PID: 15304
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 21
+Files Opened by Process: 19
+Status: running
+Start Time: 2026-02-14 09:42:13
+CPU %: 0.00
+Memory %: 0.23
+__________________________________________________
+PID: 15316
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 22
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:42:13
+CPU %: 0.00
+Memory %: 0.39
+__________________________________________________
+PID: 15340
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 8
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:42:13
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 15444
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 10
+Files Opened by Process: 15
+Status: running
+Start Time: 2026-02-14 09:42:14
+CPU %: 0.00
+Memory %: 0.09
+__________________________________________________
+PID: 15624
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 26
+Files Opened by Process: 35
+Status: running
+Start Time: 2026-02-14 09:42:14
+CPU %: 0.00
+Memory %: 0.62
+__________________________________________________
+PID: 15732
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 10
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:43:42
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 15736
+Name: ctfmon.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 12
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:42:14
+CPU %: 1.20
+Memory %: 0.18
+__________________________________________________
+PID: 15800
+Name: mc-extn-browserhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 39
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 11:33:43
+CPU %: 0.00
+Memory %: 0.13
+__________________________________________________
+PID: 16156
+Name: LockApp.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 14
+Files Opened by Process: 6
+Status: stopped
+Start Time: 2026-02-14 10:04:58
+CPU %: 0.00
+Memory %: 0.48
+__________________________________________________
+PID: 16232
+Name: BlueStacksServices.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 25
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 09:44:58
+CPU %: 0.00
+Memory %: 0.22
+__________________________________________________
+PID: 16336
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 50
+Files Opened by Process: 178
+Status: running
+Start Time: 2026-02-14 09:47:25
+CPU %: 10.50
+Memory %: 0.68
+__________________________________________________
+PID: 16396
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 25
+Files Opened by Process: 37
+Status: running
+Start Time: 2026-02-14 09:43:14
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 16516
+Name: BlueStacksServices.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 29
+Files Opened by Process: 26
+Status: running
+Start Time: 2026-02-14 09:44:56
+CPU %: 0.70
+Memory %: 0.39
+__________________________________________________
+PID: 16768
+Name: M365Copilot.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 37
+Files Opened by Process: 20
+Status: running
+Start Time: 2026-02-14 09:48:23
+CPU %: 0.00
+Memory %: 0.43
+__________________________________________________
+PID: 16928
+Name: RuntimeBroker.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:42:16
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 16972
+Name: conhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 5
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:45:18
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 17028
+Name: HPMediaNetwork.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 10
+Files Opened by Process: 15
+Status: running
+Start Time: 2026-02-14 09:42:51
+CPU %: 0.00
+Memory %: 0.20
+__________________________________________________
+PID: 17060
+Name: backgroundTaskHost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 19
+Files Opened by Process: 42
+Status: stopped
+Start Time: 2026-02-14 09:42:17
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 17316
+Name: AdskAccessUIHost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 18
+Files Opened by Process: 15
+Status: running
+Start Time: 2026-02-14 09:43:27
+CPU %: 0.00
+Memory %: 0.16
+__________________________________________________
+PID: 17404
+Name: NisSrv.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 4
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:42:21
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 17504
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 12:39:28
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 17520
+Name: svchost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 5
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:42:24
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 17692
+Name: svchost.exe
+UserName: NT AUTHORITY\NETWORK SERVICE
+Threads: 17
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:42:25
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 17768
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 14
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:42:25
+CPU %: 0.00
+Memory %: 0.08
+__________________________________________________
+PID: 17972
+Name: CastSrv.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 4
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:42:25
+CPU %: 0.00
+Memory %: 0.08
+__________________________________________________
+PID: 18016
+Name: AdskAccessUIHost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 14
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 09:43:27
+CPU %: 0.00
+Memory %: 0.18
+__________________________________________________
+PID: 18060
+Name: cmd.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 1
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 12:21:21
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 18144
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 5
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:42:26
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 18288
+Name: ms-teams.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 75
+Files Opened by Process: 29
+Status: running
+Start Time: 2026-02-14 09:46:18
+CPU %: 0.00
+Memory %: 0.19
+__________________________________________________
+PID: 18320
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 10
+Files Opened by Process: 7
+Status: running
+Start Time: 2026-02-14 09:46:23
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 18356
+Name: dllhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 12:21:18
+CPU %: 0.00
+Memory %: 0.10
+__________________________________________________
+PID: 18412
+Name: RtkAudUService64.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 17
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:42:29
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 18480
+Name: AppActions.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 7
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:49:41
+CPU %: 0.00
+Memory %: 0.16
+__________________________________________________
+PID: 18488
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 55
+Files Opened by Process: 100
+Status: running
+Start Time: 2026-02-14 09:43:14
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 18524
+Name: msedge.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 16
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 11:47:43
+CPU %: 0.00
+Memory %: 0.28
+__________________________________________________
+PID: 18532
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 24
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 09:43:14
+CPU %: 0.00
+Memory %: 0.04
+__________________________________________________
+PID: 18552
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 7
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:43:14
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 18612
+Name: AdskAccessService.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 10
+Files Opened by Process: 7
+Status: running
+Start Time: 2026-02-14 09:43:14
+CPU %: 0.00
+Memory %: 0.11
+__________________________________________________
+PID: 18684
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 23
+Files Opened by Process: 19
+Status: running
+Start Time: 2026-02-14 09:43:14
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 18968
+Name: AdskAccessUIHost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 46
+Files Opened by Process: 39
+Status: running
+Start Time: 2026-02-14 09:43:25
+CPU %: 0.50
+Memory %: 0.28
+__________________________________________________
+PID: 19044
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 18
+Files Opened by Process: 23
+Status: running
+Start Time: 2026-02-14 12:41:03
+CPU %: 0.10
+Memory %: 0.41
+__________________________________________________
+PID: 19124
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 23
+Files Opened by Process: 10
+Status: running
+Start Time: 2026-02-14 12:39:31
+CPU %: 0.10
+Memory %: 0.56
+__________________________________________________
+PID: 19132
+Name: AdskAccessCore.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 19
+Files Opened by Process: 10
+Status: running
+Start Time: 2026-02-14 09:43:19
+CPU %: 0.40
+Memory %: 0.30
+__________________________________________________
+PID: 19332
+Name: ChatGPT.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 54
+Files Opened by Process: 52
+Status: running
+Start Time: 2026-02-14 11:30:03
+CPU %: 0.60
+Memory %: 0.86
+__________________________________________________
+PID: 19408
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 8
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:47:26
+CPU %: 0.00
+Memory %: 0.08
+__________________________________________________
+PID: 19428
+Name: SystemSettings.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 47
+Files Opened by Process: 20
+Status: stopped
+Start Time: 2026-02-14 09:50:09
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 19432
+Name: msedge.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 15
+Files Opened by Process: 8
+Status: running
+Start Time: 2026-02-14 11:48:00
+CPU %: 0.00
+Memory %: 0.18
+__________________________________________________
+PID: 19536
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 24
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:43:48
+CPU %: 6.20
+Memory %: 1.37
+__________________________________________________
+PID: 19548
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 20
+Files Opened by Process: 36
+Status: running
+Start Time: 2026-02-14 09:43:48
+CPU %: 0.60
+Memory %: 0.42
+__________________________________________________
+PID: 19576
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 11
+Files Opened by Process: 38
+Status: running
+Start Time: 2026-02-14 09:43:48
+CPU %: 0.00
+Memory %: 0.11
+__________________________________________________
+PID: 19892
+Name: conhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 2
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:45:17
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 20052
+Name: cmd.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 1
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:43:52
+CPU %: 0.00
+Memory %: 0.01
+__________________________________________________
+PID: 20060
+Name: cmd.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 1
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:43:52
+CPU %: 0.00
+Memory %: 0.01
+__________________________________________________
+PID: 20124
+Name: conhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 09:43:52
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 20164
+Name: svchost.exe
+UserName: NT AUTHORITY\NETWORK SERVICE
+Threads: 11
+Files Opened by Process: Access Denied
+Status: running
+Start Time: 2026-02-14 09:44:05
+CPU %: 0.00
+Memory %: 0.15
+__________________________________________________
+PID: 20240
+Name: mc-extn-browserhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 39
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:43:52
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 20268
+Name: conhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 09:43:52
+CPU %: 0.00
+Memory %: 0.02
+__________________________________________________
+PID: 20280
+Name: browserhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 38
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:43:52
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 20284
+Name: urban-vpn-app.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 12
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:43:51
+CPU %: 0.50
+Memory %: 0.21
+__________________________________________________
+PID: 20312
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 8
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:47:25
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 20356
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 24
+Files Opened by Process: 9
+Status: running
+Start Time: 2026-02-14 09:43:51
+CPU %: 0.00
+Memory %: 0.35
+__________________________________________________
+PID: 20672
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 5
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:44:05
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 20696
+Name: MidiSrv.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 3
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 09:45:33
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 20748
+Name: svchost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 24
+Files Opened by Process: 7
+Status: running
+Start Time: 2026-02-14 09:44:06
+CPU %: 0.60
+Memory %: 0.23
+__________________________________________________
+PID: 21048
+Name: RuntimeBroker.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 5
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:45:34
+CPU %: 0.00
+Memory %: 0.15
+__________________________________________________
+PID: 21112
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 21
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 11:26:43
+CPU %: 0.00
+Memory %: 0.29
+__________________________________________________
+PID: 21120
+Name: conhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 11:33:43
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 21152
+Name: steamwebhelper.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 16
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 09:45:32
+CPU %: 0.00
+Memory %: 0.19
+__________________________________________________
+PID: 21232
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 28
+Files Opened by Process: 67
+Status: running
+Start Time: 2026-02-14 09:43:53
+CPU %: 0.30
+Memory %: 1.32
+__________________________________________________
+PID: 21344
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 27
+Files Opened by Process: 72
+Status: running
+Start Time: 2026-02-14 09:43:54
+CPU %: 0.30
+Memory %: 1.48
+__________________________________________________
+PID: 21588
+Name: softinfo.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 17
+Files Opened by Process: 10
+Status: running
+Start Time: 2026-02-14 09:44:52
+CPU %: 0.50
+Memory %: 0.12
+__________________________________________________
+PID: 21600
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 20
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 09:43:55
+CPU %: 0.00
+Memory %: 0.17
+__________________________________________________
+PID: 21840
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 10
+Files Opened by Process: 7
+Status: running
+Start Time: 2026-02-14 09:43:57
+CPU %: 0.00
+Memory %: 0.11
+__________________________________________________
+PID: 21848
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 11
+Files Opened by Process: 9
+Status: running
+Start Time: 2026-02-14 09:43:57
+CPU %: 0.00
+Memory %: 0.12
+__________________________________________________
+PID: 22056
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 23
+Files Opened by Process: 23
+Status: running
+Start Time: 2026-02-14 11:33:43
+CPU %: 0.10
+Memory %: 0.44
+__________________________________________________
+PID: 22072
+Name: RuntimeBroker.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 2
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 09:46:09
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 22204
+Name: Code.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 21
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 09:45:11
+CPU %: 5.50
+Memory %: 0.72
+__________________________________________________
+PID: 22212
+Name: Code.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 20
+Files Opened by Process: 16
+Status: running
+Start Time: 2026-02-14 09:45:11
+CPU %: 0.10
+Memory %: 0.17
+__________________________________________________
+PID: 22228
+Name: OneDrive.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 36
+Files Opened by Process: 52
+Status: running
+Start Time: 2026-02-14 09:44:33
+CPU %: 0.70
+Memory %: 0.67
+__________________________________________________
+PID: 22240
+Name: svchost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 4
+Files Opened by Process: 7
+Status: running
+Start Time: 2026-02-14 09:43:58
+CPU %: 0.00
+Memory %: 0.09
+__________________________________________________
+PID: 22360
+Name: backgroundTaskHost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 12
+Files Opened by Process: 2
+Status: stopped
+Start Time: 2026-02-14 09:44:07
+CPU %: 0.00
+Memory %: 0.01
+__________________________________________________
+PID: 22868
+Name: Code.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 25
+Files Opened by Process: 48
+Status: running
+Start Time: 2026-02-14 09:45:11
+CPU %: 12.90
+Memory %: 1.49
+__________________________________________________
+PID: 22884
+Name: ShellExperienceHost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 24
+Files Opened by Process: 8
+Status: stopped
+Start Time: 2026-02-14 09:45:33
+CPU %: 0.00
+Memory %: 0.45
+__________________________________________________
+PID: 22980
+Name: ChatGPT.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 25
+Files Opened by Process: 43
+Status: running
+Start Time: 2026-02-14 11:30:07
+CPU %: 0.70
+Memory %: 1.28
+__________________________________________________
+PID: 22992
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 26
+Files Opened by Process: 35
+Status: running
+Start Time: 2026-02-14 11:26:02
+CPU %: 0.00
+Memory %: 0.58
+__________________________________________________
+PID: 23024
+Name: Code.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 17
+Files Opened by Process: 12
+Status: running
+Start Time: 2026-02-14 09:45:19
+CPU %: 6.40
+Memory %: 2.71
+__________________________________________________
+PID: 23060
+Name: ms-teams.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 54
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 09:46:08
+CPU %: 0.00
+Memory %: 0.18
+__________________________________________________
+PID: 23128
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 30
+Files Opened by Process: 37
+Status: running
+Start Time: 2026-02-14 09:47:27
+CPU %: 4.40
+Memory %: 2.76
+__________________________________________________
+PID: 23560
+Name: HpccLauncher.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:46:39
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 23596
+Name: HP.HPX.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 9
+Files Opened by Process: 8
+Status: running
+Start Time: 2026-02-14 09:47:52
+CPU %: 0.00
+Memory %: 0.24
+__________________________________________________
+PID: 23868
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 24
+Files Opened by Process: 19
+Status: running
+Start Time: 2026-02-14 09:47:25
+CPU %: 0.10
+Memory %: 0.20
+__________________________________________________
+PID: 23956
+Name: XboxPcTray.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 9
+Files Opened by Process: 14
+Status: running
+Start Time: 2026-02-14 09:46:47
+CPU %: 0.00
+Memory %: 0.19
+__________________________________________________
+PID: 24052
+Name: XboxPcAppFT.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 11
+Files Opened by Process: 13
+Status: running
+Start Time: 2026-02-14 09:46:47
+CPU %: 0.00
+Memory %: 0.22
+__________________________________________________
+PID: 24152
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 21
+Files Opened by Process: 19
+Status: running
+Start Time: 2026-02-14 09:48:24
+CPU %: 0.00
+Memory %: 0.07
+__________________________________________________
+PID: 24168
+Name: WhatsApp.Root.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 34
+Files Opened by Process: 122
+Status: running
+Start Time: 2026-02-14 09:47:21
+CPU %: 0.40
+Memory %: 1.38
+__________________________________________________
+PID: 24420
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 9
+Files Opened by Process: 19
+Status: running
+Start Time: 2026-02-14 09:48:24
+CPU %: 0.00
+Memory %: 0.01
+__________________________________________________
+PID: 24536
+Name: SearchFilterHost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 3
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 12:41:25
+CPU %: 0.00
+Memory %: 0.08
+__________________________________________________
+PID: 24612
+Name: Cirkit_Create_Agent.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 11
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 09:49:23
+CPU %: 0.00
+Memory %: 0.08
+__________________________________________________
+PID: 24616
+Name: ApplicationFrameHost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 6
+Files Opened by Process: 7
+Status: running
+Start Time: 2026-02-14 09:50:09
+CPU %: 0.00
+Memory %: 0.19
+__________________________________________________
+PID: 24716
+Name: BridgeCommunication.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 4
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 11:57:02
+CPU %: 0.00
+Memory %: 0.20
+__________________________________________________
+PID: 24828
+Name: msedge.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 25
+Files Opened by Process: 21
+Status: running
+Start Time: 2026-02-14 11:48:00
+CPU %: 0.00
+Memory %: 0.31
+__________________________________________________
+PID: 24892
+Name: SearchProtocolHost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 6
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 12:41:25
+CPU %: 0.00
+Memory %: 0.13
+__________________________________________________
+PID: 24916
+Name: ShellHost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 9
+Files Opened by Process: 5
+Status: running
+Start Time: 2026-02-14 12:41:55
+CPU %: 0.00
+Memory %: 0.51
+__________________________________________________
+PID: 25068
+Name: audiodg.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 5
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 12:39:50
+CPU %: 0.00
+Memory %: 0.16
+__________________________________________________
+PID: 25104
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 22
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 11:26:39
+CPU %: 0.00
+Memory %: 0.27
+__________________________________________________
+PID: 25164
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 10
+Files Opened by Process: 6
+Status: running
+Start Time: 2026-02-14 09:48:39
+CPU %: 0.00
+Memory %: 0.10
+__________________________________________________
+PID: 25172
+Name: GenuineService.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 5
+Files Opened by Process: 6
+Status: running
+Start Time: 2026-02-14 09:49:24
+CPU %: 0.40
+Memory %: 0.13
+__________________________________________________
+PID: 25320
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 26
+Files Opened by Process: 25
+Status: running
+Start Time: 2026-02-14 11:37:45
+CPU %: 0.00
+Memory %: 0.53
+__________________________________________________
+PID: 25376
+Name: ONENOTEM.EXE
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 2
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 09:49:26
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 25404
+Name: OneDrive.Sync.Service.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 15
+Files Opened by Process: 20
+Status: running
+Start Time: 2026-02-14 09:51:31
+CPU %: 0.00
+Memory %: 0.09
+__________________________________________________
+PID: 25492
+Name: conhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 4
+Status: running
+Start Time: 2026-02-14 11:33:43
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 25948
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 1
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 12:31:52
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 25976
+Name: msedge.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 26
+Files Opened by Process: 37
+Status: running
+Start Time: 2026-02-14 11:48:00
+CPU %: 0.00
+Memory %: 0.44
+__________________________________________________
+PID: 26140
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 20
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 11:26:43
+CPU %: 0.00
+Memory %: 0.30
+__________________________________________________
+PID: 26328
+Name: cmd.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 1
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 11:33:43
+CPU %: 0.00
+Memory %: 0.03
+__________________________________________________
+PID: 26528
+Name: svchost.exe
+UserName: NT AUTHORITY\LOCAL SERVICE
+Threads: 1
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 09:51:34
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 26640
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 13
+Files Opened by Process: 10
+Status: running
+Start Time: 2026-02-14 12:41:08
+CPU %: 0.00
+Memory %: 0.20
+__________________________________________________
+PID: 26756
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 23
+Files Opened by Process: 30
+Status: running
+Start Time: 2026-02-14 11:26:05
+CPU %: 0.00
+Memory %: 0.93
+__________________________________________________
+PID: 27172
+Name: conhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 5
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 11:42:36
+CPU %: 0.00
+Memory %: 0.05
+__________________________________________________
+PID: 27392
+Name: msedge.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 7
+Files Opened by Process: 1
+Status: running
+Start Time: 2026-02-14 11:47:43
+CPU %: 0.00
+Memory %: 0.06
+__________________________________________________
+PID: 27596
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 19
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 11:26:43
+CPU %: 0.00
+Memory %: 0.28
+__________________________________________________
+PID: 27848
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 20
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 11:26:31
+CPU %: 0.00
+Memory %: 0.27
+__________________________________________________
+PID: 27916
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 21
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 11:26:40
+CPU %: 0.00
+Memory %: 0.31
+__________________________________________________
+PID: 28076
+Name: ChatGPT.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 20
+Files Opened by Process: 17
+Status: running
+Start Time: 2026-02-14 11:30:05
+CPU %: 0.00
+Memory %: 0.25
+__________________________________________________
+PID: 28416
+Name: powershell.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 9
+Files Opened by Process: 7
+Status: running
+Start Time: 2026-02-14 11:42:36
+CPU %: 0.00
+Memory %: 0.38
+__________________________________________________
+PID: 29228
+Name: HPSystemEventUtilityHost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 6
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 11:22:22
+CPU %: 0.00
+Memory %: 0.22
+__________________________________________________
+PID: 29236
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 21
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 11:26:36
+CPU %: 0.00
+Memory %: 0.28
+__________________________________________________
+PID: 29424
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 23
+Files Opened by Process: 35
+Status: running
+Start Time: 2026-02-14 11:33:37
+CPU %: 0.00
+Memory %: 0.38
+__________________________________________________
+PID: 29588
+Name: msedge.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 57
+Files Opened by Process: 153
+Status: running
+Start Time: 2026-02-14 11:47:43
+CPU %: 0.20
+Memory %: 0.96
+__________________________________________________
+PID: 30588
+Name: RuntimeBroker.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 2
+Status: running
+Start Time: 2026-02-14 12:21:09
+CPU %: 0.00
+Memory %: 0.20
+__________________________________________________
+PID: 30736
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 20
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 11:26:43
+CPU %: 0.00
+Memory %: 0.32
+__________________________________________________
+PID: 30752
+Name: msedge.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 20
+Files Opened by Process: 19
+Status: running
+Start Time: 2026-02-14 11:47:43
+CPU %: 0.00
+Memory %: 0.29
+__________________________________________________
+PID: 30780
+Name: dllhost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 3
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 12:21:18
+CPU %: 0.00
+Memory %: 0.11
+__________________________________________________
+PID: 31332
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 22
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 11:26:38
+CPU %: 0.00
+Memory %: 0.35
+__________________________________________________
+PID: 31640
+Name: SearchFilterHost.exe
+UserName: NT AUTHORITY\SYSTEM
+Threads: 4
+Files Opened by Process: 0
+Status: running
+Start Time: 2026-02-14 12:41:26
+CPU %: 0.00
+Memory %: 0.08
+__________________________________________________
+PID: 31668
+Name: backgroundTaskHost.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 8
+Files Opened by Process: 3
+Status: running
+Start Time: 2026-02-14 12:21:09
+CPU %: 0.00
+Memory %: 0.41
+__________________________________________________
+PID: 31684
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 17
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 11:26:43
+CPU %: 0.00
+Memory %: 0.28
+__________________________________________________
+PID: 31704
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 20
+Files Opened by Process: 22
+Status: running
+Start Time: 2026-02-14 11:26:43
+CPU %: 0.00
+Memory %: 0.28
+__________________________________________________
+__________________________________________________
+---------------- End Of Log File ----------------
+__________________________________________________

@@ -1,0 +1,144 @@
+__________________________________________________
+---- Marvellous Platform Surveilliance System ----
+Log created at:Thu Feb 19 19:08:05 2026
+__________________________________________________
+
+--------------------System Report------------------
+CPU Usage: 8.1 %
+__________________________________________________
+RAM Usage: 72.4 %
+__________________________________________________
+
+ Disk Usage Report
+__________________________________________________
+C:\ -> 93.4 % used
+D:\ -> 19.4 % used
+__________________________________________________
+
+Network Usage Report
+Sent: 7.08 MB
+Recieved: 11.24 MB
+__________________________________________________
+PID: 3428
+Name: MemCompression
+UserName: None
+Threads: 62
+Files Opened by Process: Access Denied
+RSS (Actual RAM): 949.71 MB
+VMS (Virtual Memory): 3.41 MB
+Status: running
+Start Time: 2026-02-14 09:41:57
+CPU %: 21.40
+Memory %: 5.92
+__________________________________________________
+PID: 24004
+Name: msedgewebview2.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 29
+Files Opened by Process: 37
+RSS (Actual RAM): 455.01 MB
+VMS (Virtual Memory): 530.63 MB
+Status: running
+Start Time: 2026-02-19 13:31:33
+CPU %: 0.40
+Memory %: 2.83
+__________________________________________________
+PID: 22796
+Name: explorer.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 120
+Files Opened by Process: 84
+RSS (Actual RAM): 446.45 MB
+VMS (Virtual Memory): 440.23 MB
+Status: running
+Start Time: 2026-02-19 13:27:34
+CPU %: 37.30
+Memory %: 2.79
+__________________________________________________
+PID: 31684
+Name: ChatGPT.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 24
+Files Opened by Process: 50
+RSS (Actual RAM): 432.41 MB
+VMS (Virtual Memory): 340.28 MB
+Status: running
+Start Time: 2026-02-19 18:45:48
+CPU %: 0.30
+Memory %: 2.69
+__________________________________________________
+PID: 19940
+Name: Code.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 15
+Files Opened by Process: 13
+RSS (Actual RAM): 404.60 MB
+VMS (Virtual Memory): 453.77 MB
+Status: running
+Start Time: 2026-02-19 16:08:11
+CPU %: 0.00
+Memory %: 2.52
+__________________________________________________
+PID: 18412
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 51
+Files Opened by Process: 277
+RSS (Actual RAM): 391.99 MB
+VMS (Virtual Memory): 270.45 MB
+Status: running
+Start Time: 2026-02-19 13:28:04
+CPU %: 14.70
+Memory %: 2.44
+__________________________________________________
+PID: 9972
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 25
+Files Opened by Process: 67
+RSS (Actual RAM): 368.27 MB
+VMS (Virtual Memory): 306.89 MB
+Status: running
+Start Time: 2026-02-19 19:05:21
+CPU %: 44.80
+Memory %: 2.29
+__________________________________________________
+PID: 13248
+Name: Code.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 23
+Files Opened by Process: 48
+RSS (Actual RAM): 253.76 MB
+VMS (Virtual Memory): 241.84 MB
+Status: running
+Start Time: 2026-02-19 16:08:06
+CPU %: 0.10
+Memory %: 1.58
+__________________________________________________
+PID: 14120
+Name: chrome.exe
+UserName: LAPTOP-OKM6SJ38\Anushree
+Threads: 27
+Files Opened by Process: 4
+RSS (Actual RAM): 225.73 MB
+VMS (Virtual Memory): 390.64 MB
+Status: running
+Start Time: 2026-02-19 13:28:05
+CPU %: 11.90
+Memory %: 1.41
+__________________________________________________
+PID: 6480
+Name: MsMpEng.exe
+UserName: None
+Threads: 54
+Files Opened by Process: Access Denied
+RSS (Actual RAM): 224.34 MB
+VMS (Virtual Memory): 369.28 MB
+Status: running
+Start Time: 2026-02-14 09:41:59
+CPU %: 9.50
+Memory %: 1.40
+__________________________________________________
+__________________________________________________
+---------------- End Of Log File ----------------
+__________________________________________________

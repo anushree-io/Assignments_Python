@@ -4,9 +4,46 @@ import os
 import time
 import schedule
 
+import smtplib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from email.mime.base import MIMEBase
+from email import encoders
+
+def send_mail(LogFileName, ReceiverMail, Data):
+
+    sender_email = "anushree.python.test@gmail.com"
+    app_password = "lqhb jula twvi gbbx"
+
+    body = Data
+
+    msg = MIMEMultipart()         
+    msg['From'] = sender_email
+    msg['To'] = ReceiverMail
+    msg['Subject'] = "System Reoprt"  
+    msg.attach(MIMEText(body, 'plain'))
+
+    with open(LogFileName, "rb") as attachment:
+        part = MIMEBase('application', 'octet-stream')
+        part.set_payload(attachment.read())
+
+    encoders.encode_base64(part)
+    part.add_header('Content-Disposition',f'attachment; filename={os.path.basename(LogFileName)}')
+
+    msg.attach(part)
+
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+    server.starttls()
+    server.login(sender_email, app_password)
+
+    server.send_message(msg)
+    server.quit()
+
+    print("Mail sent successfully")
+
 def CreateLog(FolderName):
 
-    Border = "_"*50
+    Border = "_" * 50
 
     Ret = False
     Ret = os.path.exists(FolderName)
@@ -63,6 +100,14 @@ def CreateLog(FolderName):
     # Process Log
     Data = ProcessScan()
 
+    total = len(Data)
+
+    top_cpu = max(Data, key=lambda x: x["cpu_percent"])
+    top_mem = max(Data, key=lambda x: x["memory_percent"])
+    top_thread = max(Data, key=lambda x: x["num_threads"])
+    top_files = max(Data, key=lambda x: x["open_files_count"] if isinstance(x["open_files_count"], int) else 0)
+
+
     for info in Data:
         fobj.write("PID: %s\n" %info.get("pid"))
         fobj.write("Name: %s\n" %info.get("name"))
@@ -85,6 +130,21 @@ def CreateLog(FolderName):
     fobj.write("---------------- End Of Log File ----------------\n")
     fobj.write(Border+ "\n")
     fobj.close()
+
+    summary = f"""
+    SYSTEM SUMMARY REPORT
+
+    Total Processes: {total}
+
+    Top CPU Process: {top_cpu['name']} ({top_cpu['cpu_percent']:.2f}%)
+    Top Memory Process: {top_mem['name']} ({top_mem['memory_percent']:.2f}%)
+    Top Threads: {top_thread['name']} ({top_thread['num_threads']})
+    Top Open Files: {top_files['name']} ({top_files['open_files_count']})
+    
+    """
+
+
+    return FileName , summary
 
 def ProcessScan():
     listprocess = []
@@ -139,6 +199,12 @@ def ProcessScan():
 
     return listprocess [:10]
 
+def Job(folder, receiver):
+
+    logfile, summary = CreateLog(folder)
+
+    send_mail(logfile,receiver,summary)    # use parametersummary        # use generated summary
+
 def main():
 
     Border = "_"*50
@@ -168,17 +234,18 @@ def main():
             print("Please udse --h or -- u to get more details")
 
      # python Demo.py 5 Marvellous   
-    elif len(sys.argv) == 3:
+    elif len(sys.argv) == 4:
         print("Inside Projects logic")
         print("Time Interval:",sys.argv[1])
         print("Directory Name:",sys.argv[2])
         
         # Apply the scheduler
-        schedule.every(int(sys.argv[1])).minutes.do(CreateLog,sys.argv[2])
+        schedule.every(int(sys.argv[3])).minutes.do(Job, sys.argv[1], sys.argv[2])
 
         print("Platform Surviellinance System Started Successfully")
-        print("Directory created with name: ", sys.argv[2])
-        print("Time Interval in minutes:",sys.argv[1])
+        print("Directory created with name: ", sys.argv[1])
+        print("Receiver Mail:", sys.argv[2])
+        print("Time Interval in minutes:",sys.argv[3])
         print("Press Ctrl + C to stop the execution")
 
         # Wait till abort

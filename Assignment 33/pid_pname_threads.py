@@ -12,13 +12,13 @@ def log_thread_monitoring(filename="process_log.txt"):
             # Iterate through all running processes
             for proc in psutil.process_iter(['pid', 'name', 'num_threads']):
                 try:
-                    # Fetch process info
+        
                     pinfo = proc.info
                     name = pinfo['name']
                     pid = pinfo['pid']
                     threads = pinfo['num_threads']
                     
-                    # Format and write to file
+        
                     log_entry = f"PID: {pid} | Name: {name} | Threads: {threads}\n"
                     f.write(log_entry)
                     
